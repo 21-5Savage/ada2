@@ -35,7 +35,7 @@ int edit_distance(string P, string Q){
     //     }
     //     cout << "\n";
     // }
-    //cout << dp[m][n] << "\t";
+    // cout << dp[m][n] << "\t";
     for(int i = m; i < 0; i--){
         for(int j = n; j < 0; j--){
             int x = min({dp[i-1][j-1], dp[i-1][j], dp[i][j-1]});

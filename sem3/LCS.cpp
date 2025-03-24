@@ -55,6 +55,12 @@ int LCS(string P, string Q) {
     cout << "P: " << P_mod << "\n";
     cout << "Q: " << Q_mod << "\n";
     cout << "LCS: " << lcs_seq << "\n";
+    for(int i = 0; i <= m; i++){
+        for(int j = 0; j <= n; j++){
+            cout << dp[i][j] << "\t";
+        }
+        cout << "\n";
+    }
     return dp[m][n];
 }
 
