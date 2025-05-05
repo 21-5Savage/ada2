@@ -1,0 +1,10 @@
+For 5000000 nodes, Search count : 1000000
+Odd avg: 28.0788        Even avg: 30.0922
+For 10000000 nodes, Search count : 1000000
+Odd avg: 29.016 Even avg: 31.025
+For 20000000 nodes, Search count : 1000000
+Odd avg: 32.0562        Even avg: 34.8218
+For 50000000 nodes, Search count : 10000
+Odd avg: 33.145 Even avg: 35.2106
+
+youre gonna need a lot a RAM if your tree is huge. I can't and won't optimize this shit.

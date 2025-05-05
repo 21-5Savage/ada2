@@ -1,0 +1,24 @@
+For input size N: 10000000
+Average of 1000 runs
+Quick select average : 31.2562
+Mergesort : 6635
+
+For input size N: 20000000
+Average of 1000 runs
+Quick select average : 48.2713
+Mergesort : 13831.5
+
+For input size N: 40000000
+Average of 1000 runs
+Quick select average : 92.8269
+Mergesort : 29426.9
+
+For input size N: 80000000
+Average of 1000 runs
+Quick select average : 339.01
+Mergesort : 57264.9
+
+For input size N: 160000000
+Average of 1000 runs
+Quick select average : 580.433
+Mergesort : 193155

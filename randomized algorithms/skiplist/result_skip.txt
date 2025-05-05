@@ -1,0 +1,11 @@
+For 5000000 nodes, Search count : 1000000
+Odd avg: 46.0282        Even avg: 46.0378
+
+For 10000000 nodes, Search count : 1000000
+Odd avg: 47.21  Even avg: 47.1919
+
+For 20000000 nodes, Search count : 1000000
+Odd avg: 48.6421        Even avg: 48.6517
+
+For 50000000 nodes, Search count : 1000000
+Odd avg: 51.3987        Even avg: 51.4136
